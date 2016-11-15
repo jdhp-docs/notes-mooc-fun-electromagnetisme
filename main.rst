@@ -5,9 +5,9 @@
 
 .. include:: meta.rst
 
-====
-TODO_DOCUMENT_TITLE
-====
+==================================
+Introduction à l'électromagnétisme
+==================================
 
 :Auteur: |AUTHORS|
 :Contact: |CONTACT|
